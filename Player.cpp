@@ -121,3 +121,4 @@ string Player::getDieType()
 	{
 		return("Loaded Die");
 	}
+}
