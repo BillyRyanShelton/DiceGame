@@ -24,3 +24,4 @@ int LoadedDie::roll()								//this makes the dice roll give higher outcomes on 
 	//cout << loaded_outcome << endl;
 	//cout << endl;
 	return loaded_outcome;
+}
